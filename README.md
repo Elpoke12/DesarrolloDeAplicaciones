@@ -1,1 +1,1 @@
-# En este Repositorio se iran almacenando las practicas de la debida materia:D
+# En este Repositorio se irán almacenando las practicas de la debida materia:D
